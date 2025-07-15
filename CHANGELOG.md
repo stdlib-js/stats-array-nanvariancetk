@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5d6b241`](https://github.com/stdlib-js/stdlib/commit/5d6b24158bfaf492d511bb1fe3460e15c3634f5b) - **docs:** update notes and copy _(by Athan Reines)_
 -   [`472e0d6`](https://github.com/stdlib-js/stdlib/commit/472e0d63461ac223557f1bb0a0ac9407d4cc6b4a) - **feat:** add `stats/array/nanvariancetk` [(#7669)](https://github.com/stdlib-js/stdlib/pull/7669) _(by Gururaj Gurram, Athan Reines)_
 
 </details>
