@@ -110,7 +110,7 @@ The use of the term `n-1` is commonly referred to as Bessel's correction. Note, 
 ## Usage
 
 ```javascript
-import nanvariancetk from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanvariancetk@esm/index.mjs';
+import nanvariancetk from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanvariancetk@v0.1.0-esm/index.mjs';
 ```
 
 #### nanvariancetk( x\[, correction] )
@@ -170,7 +170,7 @@ var v = nanvariancetk( x, 0.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@esm/index.mjs';
-import nanvariancetk from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanvariancetk@esm/index.mjs';
+import nanvariancetk from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanvariancetk@v0.1.0-esm/index.mjs';
 
 function rand() {
     if ( bernoulli( 0.8 ) < 1 ) {
